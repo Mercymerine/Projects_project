@@ -3,13 +3,13 @@
 This project uses various machine learning techniques to classify cancer diagnoses as malignant or benign based on a comprehensive dataset. The goal is to identify the most effective machine learning model for accurate and reliable predictions, making strides toward early detection and improved outcomes in cancer diagnostics.
 
 ### Table of Contents
-Overview
-Dataset
-Data Preprocessing
-Exploratory Data Analysis (EDA)
-Modeling
-Evaluation
-Technologies Used
+1. Overview
+2. Dataset
+3. Data Preprocessing
+4. Exploratory Data Analysis (EDA)
+5. Modeling
+6. Evaluation
+7. Technologies Used
 
 ### Overview
 Early detection of cancer is critical to patient survival and treatment success. This project applies machine learning algorithms to classify tumors based on a range of diagnostic measurements. It evaluates models such as K-Nearest Neighbors (KNN), Naive Bayes, and Support Vector Machines (SVM) to determine the most effective classifier.
