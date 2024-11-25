@@ -21,8 +21,8 @@ Leverage cross-validation to enhance model reliability.
 Visualize data relationships and identify correlations between features.
 
 ### Dataset
-The dataset used in this project was obtained from Kaggle:
-Cancer Data
+The dataset used in this project was obtained from Kaggle:https://www.kaggle.com/datasets/priyanka841/breast-cancer-wisconsin
+
 
  Features:
 
